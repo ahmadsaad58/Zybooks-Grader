@@ -1,6 +1,6 @@
 # Zybooks Grading Script 
 
-_Unlike the test grading script, this script will not work for all students. This is due to the fact that students may enter their names different from what is on Canvas or they have dropped the class. I recommend manually entering grades for those students and addressing the class prior to the first reading assignment to match their name to their Canvas name_ 
+_Unlike the test grading script, this script will not work for all students. This is due to the fact that students may enter their names different from what is on Canvas or they have dropped the class. I recommend manually entering grades for those students and addressing the class prior to the first reading assignment to match their zybooks name to their Canvas name_ 
 
 
 ## What the CSV files need 
