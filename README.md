@@ -12,3 +12,6 @@ __Do not forget to make each student's name in this format:__
 _Last Name_ __,__ _First Name_
 
 
+__FOLLOW THE SAMPLE CSVs__
+
+
