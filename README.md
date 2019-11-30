@@ -8,7 +8,7 @@ The first file is final.csv: this holds all the grades for each student, export 
 For this script, you only want the zybooks grades
 
 The second file is the zybooks.csv, this file holds all the zybook grades as a percentage. Trim all the extra data you do not need 
-** Do not forget to make each student's name in this format: **
-'<Last Name>' **,** '<First Name>'
+__Do not forget to make each student's name in this format:__
+_Last Name_ __,__ _First Name_
 
 
