@@ -9,6 +9,6 @@ For this script, you only want the zybooks grades
 
 The second file is the zybooks.csv, this file holds all the zybook grades as a percentage. Trim all the extra data you do not need 
 ** Do not forget to make each student's name in this format: **
-<Last Name>**,** <First Name>
+'<Last Name>' **,** '<First Name>'
 
 
